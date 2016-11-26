@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "679504777231",
+    "firebase_url": "https://aerobic-canto-144818.firebaseio.com",
+    "project_id": "aerobic-canto-144818",
+    "storage_bucket": "aerobic-canto-144818.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679504777231:android:e4f052d3c33d9520",
+        "android_client_info": {
+          "package_name": "com.antro.potronica.corredor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679504777231-bkr3ta7h29eg4rvcer9ppe28p3hn8a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6U4vbjcOKhtF159mD5wOAPmFw1Yb2MMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679504777231:android:103648ed40d2666b",
+        "android_client_info": {
+          "package_name": "com.antro.potronica.ecoedge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679504777231-bkr3ta7h29eg4rvcer9ppe28p3hn8a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6U4vbjcOKhtF159mD5wOAPmFw1Yb2MMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679504777231:android:b8b969002044b3e9",
+        "android_client_info": {
+          "package_name": "com.antro.potronica.ecoedgeco"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679504777231-bkr3ta7h29eg4rvcer9ppe28p3hn8a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6U4vbjcOKhtF159mD5wOAPmFw1Yb2MMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679504777231:android:5c0606a6fb174e0f",
+        "android_client_info": {
+          "package_name": "com.example.root.elcorredornocturno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679504777231-bkr3ta7h29eg4rvcer9ppe28p3hn8a0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6U4vbjcOKhtF159mD5wOAPmFw1Yb2MMM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
